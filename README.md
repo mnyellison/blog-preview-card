@@ -17,7 +17,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/mnyellison/blog-preview-card
-- Live Site URL:
+- Live Site URL: https://blog-preview-card-nine-inky.vercel.app/
 
 ---
 
